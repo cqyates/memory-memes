@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "./images/40percent.jpg"
+    },
+    {
+        "id": 2,
+        "image": "./images/callTooMuch.jpg"
+    },
+    {
+        "id": 3,
+        "image": "./images/dankMeme.jpg"
+    },
+    {
+        "id": 4,
+        "image": "./images/dontWanttoLive.jpg"
+    },
+    {
+        "id": 5,
+        "image": "./images/feelBad.jpg"
+    },
+    {
+        "id": 6,
+        "image": "./images/jerkBender.jpg"
+    },
+    {
+        "id": 7,
+        "image": "./images/newMeme.jpg"
+    },
+    {
+        "id": 8,
+        "image": "./images/robotFramework.jpg"
+    },
+    {
+        "id": 9,
+        "image": "./images/supremeCourt.jpg"
+    },
+    {
+        "id": 10,
+        "image": "./images/takeMyMoney.jpg"
+    },
+    {
+        "id": 11,
+        "image": "./images/takeThis.jpg"
+    },
+    {
+        "id": 12,
+        "image": "./images/weirdFeelings.png"
+    }
+]

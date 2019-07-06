@@ -1,0 +1,9 @@
+.jumbotron {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+    color: white;
+    margin-bottom: 50px;
+    background-image: url("/images/dark-paths.png");
+  }
